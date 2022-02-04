@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#body1 {
+  height: 30%;
+  width: 100%;
+}
+#Body2 {
+  height: 70%;
+}
+#heading {
+  width: 100%;
+
+  overflow: auto;
+}
+.heading1 {
+  float: left;
+
+  width: 50%;
+}
+#headingpadd {
+  padding: 3vw;
+}
+.heading2 {
+  float: right;
+
+  width: 50%;
+}
+#hh11 {
+  font-weight: bolder !important;
+}
+#hh1 {
+  font-weight: lighter;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#hh1,
+#hh3 {
+  font-size: 1.5vw;
+}
+#hh2 {
+  color: rgb(13, 13, 194);
+  font-size: 5vw;
+}
+#imageh {
+  height: 15vw;
+  width: 100%;
+}
+#buttonh {
+  background-color: orangered;
+  color: white;
+  position: relative;
+  top: -11vw;
+  height: 6.5vw;
+  width: 30vw;
+  font-size: 3.5vw;
+  font-weight: bold;
+  border: 0.001vw;
+}
+#news {
+  text-align: start;
+  font-size: 2vw;
+  font-family: monospace;
+}
+#imagetext {
+  margin-left: 1vw;
+  font-size: 1.2vw;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: start;
+  font-weight: bold;
+}
+#dog {
+  width: "60%";
+
+  float: left;
+}
+#imagedog {
+  width: 40vw !important;
+}
+#pagebody {
+  overflow: auto;
+  width: 100%;
+}
+#data {
+  width: 40%;
+
+  float: right;
+}
+.imgbutton {
+  width: 100%;
+  height: 4vw;
+  font-size: 1.2vw;
+  font-weight: bolder;
+  text-align: start;
+  margin-top: 0.5vw;
+  padding-left: 4vw;
+  background-color: whitesmoke;
+  border-radius: 0.5vw;
+  border: 0.1vw solid wheat;
+}
+.spann {
+  margin-left: 3vw;
+}
+#pageeee {
+  margin: 0.5vw;
+}

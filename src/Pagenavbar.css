@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+ul {
+  overflow: auto;
+  width: 100%;
+  height: 2.6vw;
+  background-color: rgb(221, 221, 221);
+}
+.pagenav {
+  font-size: 1.2vw;
+
+  text-decoration: none;
+  color: black;
+  background-color: rgb(221, 221, 221);
+  padding: 0.5vw;
+  width: 17%;
+  float: left;
+  list-style-type: none;
+}
+.pagenav1 {
+  float: right;
+  font-size: 1vw;
+
+  text-decoration: none;
+  color: black;
+
+  padding: 0.5vw;
+  width: 10%;
+  list-style-type: none;
+}
+.pagenav:hover {
+  background-color: rgb(33, 5, 110);
+  color: white;
+  transition: 0.1s;
+}
+#nslogo {
+  height: 1.3vw;
+}
